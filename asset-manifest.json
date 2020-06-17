@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DataVizProject1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/DataVizProject1/static/js/main.5211c08a.chunk.js",
+    "main.js.map": "/DataVizProject1/static/js/main.5211c08a.chunk.js.map",
+    "runtime-main.js": "/DataVizProject1/static/js/runtime-main.d8dbae31.js",
+    "runtime-main.js.map": "/DataVizProject1/static/js/runtime-main.d8dbae31.js.map",
+    "static/js/2.a1ed5512.chunk.js": "/DataVizProject1/static/js/2.a1ed5512.chunk.js",
+    "static/js/2.a1ed5512.chunk.js.map": "/DataVizProject1/static/js/2.a1ed5512.chunk.js.map",
+    "index.html": "/DataVizProject1/index.html",
+    "precache-manifest.9cc2be29d88e5b18514e9b288aeb43e2.js": "/DataVizProject1/precache-manifest.9cc2be29d88e5b18514e9b288aeb43e2.js",
+    "service-worker.js": "/DataVizProject1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/DataVizProject1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a1ed5512.chunk.js.LICENSE.txt": "/DataVizProject1/static/js/2.a1ed5512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8dbae31.js",
+    "static/js/2.a1ed5512.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5211c08a.chunk.js"
+  ]
+}
